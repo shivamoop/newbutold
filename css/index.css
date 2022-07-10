@@ -117,10 +117,10 @@ text-align: center;
     margin: 20px 0px;
 }
 .blog-text a{
-    color: black;
+    color: darkorchid;
 }
 .blog-text a:hover
 {
-    color:darkorchid;
+    color:red;
     transition: all ease 0.5s;
 }
